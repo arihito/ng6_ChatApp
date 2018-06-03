@@ -5,7 +5,7 @@ import { ChannelComponent } from './channel/channel.component';
 const routes: Routes = [
   {
     path: 'channels/:name',
-    component: ChannelComponent
+    component: ChannelComponent,
   }
 ];
 
